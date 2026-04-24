@@ -1,6 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Andres Palencia</h1>
 <h3 align="center">Ingeniero de Software y Datos</h3>
+
+<p align="center">Apasionado por la ingeniería de datos y la construcción de pipelines escalables. Experiencia diseñando arquitecturas de datos, procesos ETL/ELT y soluciones en la nube. Me especializo en transformar datos en bruto en información valiosa para la toma de decisiones, utilizando herramientas como Python, SQL, Apache Spark, Airflow y servicios de AWS.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrespalencia10&label=Profile%20views&color=0e75b6&style=flat" alt="andrespalencia10" /> </p>
 
